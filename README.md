@@ -23,6 +23,7 @@ My research interest includes:
 
 ## Awards
 
+- 22'F KAIST College of Engineering Leadership Award
 - 22'S KAIST College of Engineering Dean's List
 - 20' 인공지능 온라인 경진대회 사업화 지원 (1.6억원) 선발
 - [18' Intel International Science and Engineering Fair Finalist & 4th Grand Award in Robotics and Intelligent Machines](https://www.korea.kr/news/pressReleaseView.do?newsId=156270627)
