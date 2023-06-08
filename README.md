@@ -15,7 +15,7 @@ My research interest includes:
 (\*: equal contribution)
 
 ## Experiences
-- **DeepAuto.ai**. Jan 2023 -. Research Engineer
+- **DeepAuto.ai**. Jan 2023 - May 2023. Research Engineer
 - **KAIST MLAI**. Oct 2022 -. Undergraduate Internship
 - **KAIST MLAI**. Jul 2021 - Oct 2022. Undergraduate Individual Research
 - **Transverse**. Oct 2020 - Mar 2021. AI Lead Developer (Co-Founder) @ Evoclass
