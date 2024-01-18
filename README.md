@@ -13,7 +13,7 @@ My research interest includes:
 #### **SEA: Sparse Linear Attention with Estimated Attention Mask**
 [[paper]](https://openreview.net/forum?id=JbcwfmYrob)[[code]](https://openreview.net/forum?id=JbcwfmYrob) **Heejun Lee**, Jina Kim, Jeffrey Willette, Sung Ju Hwang. **ICLR** 2024
 
-*Code will be announced in soon. This will take some time to clean up. Please check the open-review version for now, and if you have any questions, feel free to email me*
+*Code will be announced in soon. This will take some time to clean up (cleaning up dummy codes, adding llama, and checking compatibility between HF). Please check the open-review version for now, and if you have any questions, feel free to email me*
 
 ----
 
