@@ -31,7 +31,8 @@ My research interest includes:
 
 ## Awards
 
-- 22'F KAIST College of Engineering Leadership Award
+- 23'F KAIST College of Engineering Leadership Award on Research Excellence 
+- 22'F KAIST College of Engineering Leadership Award on Research Excellence
 - 22'S KAIST College of Engineering Dean's List
 - [18' Intel International Science and Engineering Fair Finalist & 4th Grand Award in Robotics and Intelligent Machines](https://www.korea.kr/news/pressReleaseView.do?newsId=156270627)
 - 18' 제 9회 한국청소년과학창의대회(ISEF-K) 1등 (1st Place)
