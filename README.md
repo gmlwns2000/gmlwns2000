@@ -23,11 +23,9 @@ My research interest includes:
 (\*: equal contribution)
 
 ## Experiences
-- **KAIST MLAI**. Oct 2022 -. Undergraduate Internship
+- **KAIST MLAI**. Oct 2022 -. Undergraduate Internship; Jul 2021 - Oct 2022. Undergraduate Individual Research
 - **DeepAuto.ai**. Jan 2023 - May 2023. Research Engineer
-- **KAIST MLAI**. Jul 2021 - Oct 2022. Undergraduate Individual Research
 - **Transverse**. Oct 2020 - Mar 2021. AI Lead Developer
-- **MiniEye**. Mar 2020 - Jul 2020. CTO
 
 ## Awards
 
