@@ -1,12 +1,13 @@
 I am Heejun Lee. I am an undergraduate student at the KAIST School of Computing. Hello, World! 🐱
 
 My research interest includes:
-- Neural Network Compression and Computation Optimization
-- Large-scale Machine Learning System Design, Develop, and Serving
+- Neural Network Compression and Computation Optimization (Currently, I am focusing on an attention mechanism)
+- Large-scale Machine Learning System Design, Development, and Serving (This is why I am working with DeepAuto.AI)
 - General Purpose AI (NLP/CV)
 
 ## Education
-- Korea Advanced Institute of Science and Technology (KAIST) | Mar. 2020 - Aug. 2024 (Expected) | B.S. in Computer Science
+- Korea Advanced Institute of Science and Technology (KAIST) | Sep. 2024 - Aug. 2030 (expected) | Ph.D. in Artificial Intelligence
+- Korea Advanced Institute of Science and Technology (KAIST) | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
 ## Conference Publications
 
@@ -23,7 +24,7 @@ My research interest includes:
 (\*: equal contribution)
 
 ## Experiences
-- **KAIST MLAI**. Oct 2022 -. Undergraduate Internship; Jul 2021 - Oct 2022. Undergraduate Individual Research
+- **KAIST MLAI**. Jul 2021 - Aug 2024. Undergraduate Intern (I am continuing my Ph.D. program in this lab)
 - **DeepAuto.ai**. Jan 2023 - May 2023. Research Engineer
 - **Transverse**. Oct 2020 - Mar 2021. AI Lead Developer
 
