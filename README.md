@@ -1,4 +1,4 @@
-I am Heejun Lee. I am a Ph.D. student at the KAIST AI. Hello, World! 🐱
+I am Heejun Lee. I am a Ph.D. student at the Korea Advanced Institute of Science and Technology  AI. Hello, World! 🐱
 
 My research interest includes:
 - Neural Network Compression and Computation Optimization (Currently, I am focusing on an attention mechanism)
@@ -6,8 +6,8 @@ My research interest includes:
 - General Purpose AI (NLP/CV)
 
 ## Education
-- Korea Advanced Institute of Science and Technology (KAIST) | Sep. 2024 - Aug. 2030 (expected) | Ph.D. in Artificial Intelligence
-- Korea Advanced Institute of Science and Technology (KAIST) | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
+- KAIST | Sep. 2024 - Aug. 2030 (expected) | Ph.D. in Artificial Intelligence
+- KAIST | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
 ## Publications
 
