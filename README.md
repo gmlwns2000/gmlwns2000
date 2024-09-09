@@ -1,4 +1,4 @@
-I am Heejun Lee. I am an undergraduate student at the KAIST School of Computing. Hello, World! 🐱
+I am Heejun Lee. I am a Ph.D. student at the KAIST AI. Hello, World! 🐱
 
 My research interest includes:
 - Neural Network Compression and Computation Optimization (Currently, I am focusing on an attention mechanism)
@@ -9,17 +9,19 @@ My research interest includes:
 - Korea Advanced Institute of Science and Technology (KAIST) | Sep. 2024 - Aug. 2030 (expected) | Ph.D. in Artificial Intelligence
 - Korea Advanced Institute of Science and Technology (KAIST) | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
-## Conference Publications
+## Publications
 
-#### **SEA: Sparse Linear Attention with Estimated Attention Mask**
+**[A2] HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**  
+[[paper]](https://arxiv.org/abs/2406.09827)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Jaduk Suh*, Youngwan Lee, Jina Kim, Wonyoung Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang. **Arxiv** 2024
+
+**[A1] Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache**  
+[[paper]](https://arxiv.org/html/2406.17808v1)[[code]](https://github.com/jeffwillette) Jeffrey Willette, **Heejun Lee**, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang. **Arxiv** 2024
+
+**[C2] SEA: Sparse Linear Attention with Estimated Attention Mask**  
 [[paper]](https://openreview.net/forum?id=JbcwfmYrob)[[code]](https://github.com/gmlwns2000/sea-attention) **Heejun Lee**, Jina Kim, Jeffrey Willette, Sung Ju Hwang. **ICLR** 2024
 
-----
-
-#### **Sparse Token Transformer with Attention Back Tracking**
+**[C1] Sparse Token Transformer with Attention Back Tracking**  
 [[paper]](https://openreview.net/pdf?id=VV0hSE8AxCw)[[code]](https://github.com/gmlwns2000/sttabt) **Heejun Lee**, Minki Kang, Youngwan Lee, Sung Ju Hwang. **ICLR** 2023
-
-----
 
 (\*: equal contribution)
 
