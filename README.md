@@ -12,7 +12,7 @@ My research interest includes:
 ## Publications
 
 **[A2] HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**  
-[[paper]](https://arxiv.org/abs/2406.09827)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Jaduk Suh*, Youngwan Lee, Jina Kim, Wonyoung Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang. **Arxiv** 2024
+[[paper]](https://arxiv.org/abs/2406.09827)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Youngwan Lee*, Jaduk Suh*, Jina Kim, Wonyoung Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang. **Arxiv** 2024
 
 **[A1] Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache**  
 [[paper]](https://arxiv.org/html/2406.17808v1)[[code]](https://github.com/jeffwillette) Jeffrey Willette, **Heejun Lee**, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang. **Arxiv** 2024
