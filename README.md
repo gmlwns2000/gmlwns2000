@@ -6,7 +6,7 @@ My research interest includes:
 - General Purpose AI (NLP/CV)
 
 ## Education
-- KAIST | Sep. 2024 - Aug. 2030 (expected) | Ph.D. in Artificial Intelligence
+- KAIST | Sep. 2024 - | Ph.D. in Artificial Intelligence
 - KAIST | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
 ## Publications
