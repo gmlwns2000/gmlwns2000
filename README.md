@@ -26,6 +26,7 @@ My research interest includes:
 (\*: equal contribution)
 
 ## Experiences
+- **DeepAuto.ai**. Dec. 2023 -. AI Researcher
 - **KAIST MLAI**. Jul 2021 - Aug 2024. Undergraduate Intern (I am continuing my Ph.D. program in this lab)
 - **DeepAuto.ai**. Jan 2023 - May 2023. Research Engineer
 - **Transverse**. Oct 2020 - Mar 2021. AI Lead Developer
@@ -41,5 +42,6 @@ My research interest includes:
 - 16' 제 33회 한국정보올림피아드(Korea Olympiad in Informatics; KOI) 공모부분 금상 (Gold Medal; 2nd Place)
 
 ## Academic Services
+- ICML 2025 Reviewer
 - ICLR 2025 Reviewer
 - NeurIPS 2024 Reviewer ([Top Reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers))
