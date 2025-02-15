@@ -10,6 +10,8 @@ My research interest includes:
 - KAIST | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
 ## Publications
+**[A1] InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU**  
+[[paper]](https://arxiv.org/abs/2502.08910) [[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Jaduk Suh, Sung Ju Hwang. **Arxiv**
 
 **[C4] HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**  
 [[paper]](https://arxiv.org/abs/2406.09827)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Youngwan Lee*, Jaduk Suh*, Jina Kim, Wonyoung Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang. **ICLR 2025**
