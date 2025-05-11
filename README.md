@@ -44,6 +44,7 @@ My research interest includes:
 - 16' 제 33회 한국정보올림피아드(Korea Olympiad in Informatics; KOI) 공모부분 금상 (Gold Medal; 2nd Place)
 
 ## Academic Services
+- NIPS 2025 Reviewer
 - ICML 2025 Reviewer
 - ICLR 2025 Reviewer
 - NeurIPS 2024 Reviewer ([Top Reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers))
