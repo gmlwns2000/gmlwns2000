@@ -10,6 +10,9 @@ My research interest includes:
 - KAIST | Mar. 2020 - Aug. 2024 | B.S. in Computer Science
 
 ## Publications
+**[A2] Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**  
+[[paper]](https://arxiv.org/abs/2505.11254)[[code]](https://github.com/jeffwillette/delta-attention)[[code-prod]](https://github.com/DeepAuto-AI/hip-attention) Jeffery Willette, **Heejun Lee**, Sung Ju Hwang. **Arxiv**
+
 **[A1] InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU**  
 [[paper]](https://arxiv.org/abs/2502.08910)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Jaduk Suh, Sung Ju Hwang. **Arxiv**
 
