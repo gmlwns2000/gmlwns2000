@@ -32,6 +32,7 @@ My research interest includes:
 
 ## Experiences
 - **DeepAuto.ai**. Dec. 2023 -. AI Researcher
+- **New York University**. Mar. 2025 - May. 2025. Short-term Research Scholar (Global AI Frontier Lab)
 - **KAIST MLAI**. Jul 2021 - Aug 2024. Undergraduate Intern (I am continuing my Ph.D. program in this lab)
 - **DeepAuto.ai**. Jan 2023 - May 2023. Research Engineer
 - **Transverse**. Oct 2020 - Mar 2021. AI Lead Developer
