@@ -1,11 +1,11 @@
 I am Heejun Lee. I am a Ph.D. student at the Korea Advanced Institute of Science and Technology  AI. Hello, World! 🐱
 
-[Download My CV](https://github.com/gmlwns2000/gmlwns2000/blob/main/heejun_lee_cv.pdf)
-
 My research interests include:
 - Neural Network Compression and Computation Optimization (Currently, I am focusing on an attention mechanism)
 - Large-scale Machine Learning System Design, Development, and Serving (This is why I am working with DeepAuto.AI)
 - General Purpose AI (NLP/CV)
+
+[[CV]](https://github.com/gmlwns2000/gmlwns2000/blob/main/heejun_lee_cv.pdf)
 
 ## Education
 - KAIST | Sep. 2024 - | Ph.D. in Artificial Intelligence
