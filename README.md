@@ -16,7 +16,7 @@ My research interests include:
 [[paper]](https://arxiv.org/abs/2502.08910)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Jaduk Suh, Sung Ju Hwang. **Arxiv**
 
 **[C5] Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**  
-[[paper]](https://arxiv.org/abs/2505.11254)[[code]](https://github.com/jeffwillette/delta-attention)[[code-prod]](https://github.com/DeepAuto-AI/hip-attention) Jeffery Willette, **Heejun Lee**, Sung Ju Hwang. **ICLR 2026**
+[[paper]](https://arxiv.org/abs/2505.11254)[[code]](https://github.com/jeffwillette/delta-attention)[[code-prod]](https://github.com/DeepAuto-AI/hip-attention) Jeffery Willette, **Heejun Lee**, Sung Ju Hwang. **NeurIPS 2025**
 
 **[C4] HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**  
 [[paper]](https://arxiv.org/abs/2406.09827)[[code]](https://github.com/DeepAuto-AI/hip-attention) **Heejun Lee***, Geon Park*, Youngwan Lee*, Jaduk Suh*, Jina Kim, Wonyoung Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang. **ICLR 2025**
